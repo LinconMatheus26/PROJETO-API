@@ -1,0 +1,43 @@
+{
+  "name": "PROJETO-OTIMIZADO",
+  "short_name": "PROJETO-OTIMIZADO",
+  "icons": [
+    {
+      "src": "imagens/assets/icon_120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "imagens/assets/icon_114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "imagens/assets/icon_180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    
+    {
+      "src": "imagens/assets/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png", 
+      "purpose": "maskable"
+    },
+    
+    {
+      "src": "imagens/assets/icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "imagens/assets/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#007bff",
+  "theme_color": "white"
+}
